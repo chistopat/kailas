@@ -50,4 +50,4 @@ addons:
   traefik:
     enabled: true
   servicelb:
-    enabled: false
+    enabled: true
